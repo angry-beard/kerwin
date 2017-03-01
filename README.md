@@ -1,3 +1,3 @@
 # kerwin
 playing with a small project
-Hello git 
+Hello git ! Resurgam_2017
